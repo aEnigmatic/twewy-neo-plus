@@ -1,0 +1,5 @@
+﻿<Project>
+    <PropertyGroup>
+        <NeoGameDir>[PATH TO YOUR STEAM LIBRARY]\steamapps\common\NEO The World Ends with You</NeoGameDir>
+    </PropertyGroup>
+</Project>

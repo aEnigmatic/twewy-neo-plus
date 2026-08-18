@@ -1,0 +1,8 @@
+# ide
+.idea/
+bin/
+obj/
+
+# user-specific
+Local.props
+*.DotSettings.user
